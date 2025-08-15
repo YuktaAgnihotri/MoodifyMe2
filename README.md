@@ -1,12 +1,26 @@
-# React + Vite
+# # 🎵 MoodifyMe – Your AI-Powered Music Mood Companion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Moodify is a React-based web application that blends **AI-powered sentiment analysis** with **music recommendations**.  
+Simply write your daily diary entry, and Moodify will detect your mood using an **AI model** and suggest handpicked songs that match your emotional state — turning your thoughts into tunes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 📝 **Diary Entry Input** – Write about your day in natural language.
+- 🤖 **AI Sentiment Analysis** – Uses an AI-based API to detect emotions from text.
+- 🎶 **Music Recommendations** – Fetches matching songs from a music API based on your mood.
+- ⚡ **Fast & Responsive** – Built with React and deployed on Vercel for speed and accessibility.
+- 🎨 **Modern UI** – Clean, responsive, and user-friendly design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Hooks, Context API)
+- **Deployment:** Vercel
+- **APIs Used:**
+  - AI-based Sentiment Analysis API (Hugging Face  )
+  - Music API (Jamendo )
+- **Styling:** CSS / Tailwind CSS 
+

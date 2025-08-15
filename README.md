@@ -1,6 +1,6 @@
 # # 🎵 MoodifyMe – Your AI-Powered Music Mood Companion
 Live  demo 🔗
-🖇️ ttps://moodify-me2.vercel.app/
+🖇️ https://moodify-me2.vercel.app/
 Moodify is a React-based web application that blends **AI-powered sentiment analysis** with **music recommendations**.  
 Simply write your daily diary entry, and Moodify will detect your mood using an **AI model** and suggest handpicked songs that match your emotional state — turning your thoughts into tunes.
 You can also **add an image of the day** to visually capture your mood, making your journal entries more personal and memorable.

@@ -52,7 +52,7 @@ const topEmotion = array[0][0].label;  //array gives nested array so used [][]
         </form>*/}
 
 <button onClick={handleClick} className="bg-blue-800 p-3  rounded full text-bold text-lg text-white ">analyze the Text</button> 
-<h1 className="text-2xl lg:text-3xl tracking-tighter "> suggest songs according to :{emotion}</h1>
+<h1 className="text-2xl lg:text-3xl tracking-tighter "> AI emotion analysis :{emotion}</h1>
  
  <Spotifyapi emotion ={emotion} /> 
         </>

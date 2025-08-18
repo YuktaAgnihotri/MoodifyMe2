@@ -39,7 +39,7 @@ function Main() {
                      alt='img'
                      />  //to add image we have to add its url instead of using image from useState
             :<img 
-            className=' m-auto mb-10 w-full h-[60vh] md:w-[30vw]  object-contain'
+            className=' m-auto mb-10 w-full h-max-30 md:w-[30vw]  object-contain'
             src={logo} 
             width={500}
             alt='img' />}

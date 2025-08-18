@@ -34,7 +34,7 @@ function Main() {
             {/* <img width={100} src={logo} alt='img' /> */}
              {image ?
                    <img 
-                    className=' m-auto mb-10 h-auto w-full md:w-[60vw]   object-contain'
+                    className=' m-auto mb-10 h-[50vh] w-full md:w-[60vw]   object-contain'
                     src={URL.createObjectURL(image)}
                      alt='img'
                      />  //to add image we have to add its url instead of using image from useState
